@@ -1,0 +1,356 @@
+﻿PÉNSUM DEL PROGRAMA
+Programa: [504] INGENIERÍA DE SISTEMAS (v5)
+
+
+
+
+
+INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS [2508120]
+	
+	NIVEL: 1 
+	Creditos: 1
+ 	Prerequisitos: NO TIENE
+
+
+	
+
+DESCUBRIENDO LA FÍSICA [2536101]
+
+	NIVEL: 1 
+	Creditos: 3 
+	Prerequisitos: NO TIENE
+
+
+VIVAMOS LA UNIVERSIDAD [2537101]
+
+	NIVEL: 1 
+	Creditos: 1
+	Prerequisitos: NO TIENE
+
+
+	
+ÁLGEBRA Y TRIGONOMETRÍA [2555101]
+
+	NIVEL: 1 
+	Creditos: 3
+	Prerequisitos: NO TIENE
+
+
+GEOMETRÍA VECTORIAL Y ANALÍTICA [2555121]
+
+	NIVEL: 1 
+	Creditos: 3
+	Prerequisitos: NO TIENE
+	
+	
+
+CÁLCULO DIFERENCIAL [2555131]
+
+	NIVEL: 1 
+	Creditos: 3
+	Prerequisitos: NO TIENE
+
+	
+
+ENGLISH 1 [9025101]
+
+	NIVEL: 1 
+	Creditos: 2
+	Prerequisitos: NO TIENE
+	
+
+
+MATEMÁTICAS DISCRETAS I [2508207]
+
+	NIVEL: 2
+	Creditos: 3
+	Prerequisitos: 2508120
+	
+
+LÓGICA Y REPRESENTACIÓN I [2508208]
+
+	NIVEL: 2
+	Creditos: 3
+	Prerequisitos: NO TIENE
+	
+
+
+LECTOESCRITURA [2539101]
+
+	NIVEL: 2
+	Creditos:3
+	Prerequisitos: 2537101
+	
+	
+
+ÁLGEBRA LINEAL [2555221]
+
+	NIVEL: 2
+	Creditos: 3
+	Prerequisitos: 2555101, 2555121
+	
+
+CÁLCULO INTEGRAL [2555231]
+
+	NIVEL: 2
+	Creditos: 3
+	Prerequisitos: 2555101, 2555131
+	
+
+
+
+ENGLISH 2 [9025102]
+
+	NIVEL: 2
+	Creditos: 2 
+	Prerequisitos: 9025101
+	
+	
+
+MATEMÁTICAS DISCRETAS II [2508303]
+
+	NIVEL: 3
+	Creditos: 3
+	Prerequisitos: 2508207
+	
+
+LÓGICA Y REPRESENTACIÓN II [2508306]
+
+	NIVEL: 3
+	Creditos: 3
+	Prerequisitos: 2508208
+	
+
+	
+
+TÉCNICAS DE PROGRAMACIÓN Y LABORATORIO [2508307]
+
+	NIVEL: 3
+	Creditos: 4
+	Prerequisitos: NO TIENE
+	
+
+TEORÍA DE LA PROBABILIDAD Y COLAS [2508308]
+
+	NIVEL: 3
+	Creditos: 4
+	Prerequisitos: 2555231
+	
+
+FÍSICA MECÁNICA [2536201]
+
+	NIVEL: 3
+	Creditos: 3
+	Prerequisitos: 2555121
+
+
+	
+LÓGICA Y REPRESENTACIÓN III [2508402]
+
+	NIVEL: 4
+	Creditos: 4
+	Prerequisitos: 2508306, 2508308
+	
+	
+
+ANÁLISIS Y DISEÑO DE SISTEMAS I [2508403]
+
+	NIVEL: 4
+	Creditos: 4
+	Prerequisitos: 2508307
+	
+
+	
+
+ECUACIONES DIFERENCIALES Y METODOS NUMERICOS [2508407]
+
+	NIVEL: 4
+	Creditos: 3
+	Prerequisitos: 2555231, 2555221, 2508307
+
+
+	
+
+MÉTODOS ESTADISTICOS [2508408]
+
+	NIVEL: 4
+	Creditos: 3
+	Prerequisitos: 2508308
+	
+
+
+FORMACIÓN CIUDADANA Y CONSTITUCIONAL [2517362]
+
+	NIVEL: 4
+	Creditos: 1
+	Prerequisitos: 40 CREDITOS
+	
+
+ENGLISH 3 [9025103]
+
+	NIVEL: 4
+	Creditos: 2
+	Prerequisitos: 9025102
+
+
+
+	
+
+ANÁLISIS Y DISEÑO DEM SISTEMAS II [2508506]
+
+	NIVEL: 5
+	Creditos: 3
+	Prerequisitos: 2508403
+
+	
+
+ESTRUCTURA DE DATOS Y LABORATORIO [2508507]
+
+	NIVEL: 5
+	Creditos: 4
+	Prerequisitos: 2508402
+	
+
+TEORÍA DE LENGUAJES Y LABORATORIO [2508508]
+
+	NIVEL: 5
+	Creditos: 4
+	Prerequisitos: 2508402
+	
+
+ENGLISH 4 [9025104]
+
+	NIVEL: 5
+	Creditos: 2
+	Prerequisitos: 9025103
+	
+
+  
+ 	
+
+MODELOS Y SIMULACIÓN DE SISTEMAS I [2508509]
+
+	NIVEL: 6
+	Creditos: 3
+	Prerequisitos: 2508407, 2508408
+
+	
+
+ARQUITECTURA DE SOFTWARE [2508608]
+
+	NIVEL: 6
+	Creditos: 3
+	Prerequisitos: 2508506
+
+
+
+BASES DE DATOS Y LABORATORIO [2508609]
+
+	NIVEL: 6
+	Creditos: 4
+	Prerequisitos: 2508507
+	
+
+
+COMUNICACIONES Y LABORATORIO [2508610]
+
+	NIVEL: 6
+	Creditos: 4
+	Prerequisitos: 2508402
+	
+	
+
+PROYECTO INTEGRADOR I [2508700]
+	
+	NIVEL: 6
+	Creditos: 2
+	Prerequisitos: 80 CREDITOS
+
+
+
+ENGLISH 5 [9025105]
+
+	NIVEL: 6
+	Creditos: 2
+	Prerequisitos: 9025104
+	
+
+
+
+
+MODELOS Y SIMULACIÓN DE SISTEMAS II [2508611]
+
+	NIVEL: 7
+	Creditos: 4
+	Prerequisitos: 2508509
+	
+
+FUNDAMENTOS DEM SISTEMAS DE INFORMACIÓN [2508702]
+
+	NIVEL: 7
+	Creditos: 3
+	Prerequisitos: 2508403
+	
+
+	
+CALIDAD DE SOFTWARE [2508703]
+
+	NIVEL: 7
+	Creditos: 3
+	Prerequisitos: 2508608
+	
+
+ARQUITECTURA DE COMPUTADORES Y LABORATORIO [2508716]
+
+	NIVEL: 7
+	Creditos: 4
+	Prerequisitos: 2508303
+	
+
+
+
+
+
+
+FUNDAMENTOS DE INVESTIGACIÓN [2508701]
+
+	NIVEL: 8 
+	Creditos: 3
+	Prerequisitos: 2508506
+
+
+COMUNICACIONES II [2508840]
+
+	NIVEL: 8 
+	Creditos:  3
+	Prerequisitos: 2508610
+	
+
+GESTIÓN DE PROYECTOS DE SISTEMAS DE INFORMACIÓN [2508841]
+
+	NIVEL: 8 
+	Creditos: 3
+	Prerequisitos: 2508702
+	
+
+
+SISTEMAS OPERATIVOS Y LABORATORIO [2508842]
+
+	NIVEL: 8 
+	Creditos: 4
+	Prerequisitos: 2508507, 2508716
+
+	
+
+PROYECTO INTEGRADOR II - ÁREA ELECTIVA [2508902]
+
+	NIVEL: 8 
+	Creditos: 2
+	Prerequisitos: 2508700
+	
+ÉTICA PROFESIONAL [2508836]
+
+	NIVEL: 9
+	Creditos: 1
+	Prerequisitos: 2508701
+

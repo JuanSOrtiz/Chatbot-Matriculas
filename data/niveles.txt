@@ -1,0 +1,19 @@
+A continuacion se muestra una lista de materias que se ven en cada nivel en el programa o pensum de ingenieria de sistemas de la universidad de Antioquia separado por comas
+
+Nivel 1: Introduccion a la ingenieria de sistemas, Descubriendo la fisica, Vivamos la universidad, Algebra y trigonometria, Calculo diferencial, English 1
+
+Nivel 2: Matematicas discretas 1, Logica y representacion 1, Lectoescritura, Algebra lineal, Calculo integral, English 2
+
+Nivel 3: Matematicas discretas 2, Logica y representacion 2, Tecnicas de programacion y laboratorio, Teoria de la probabilidad y colas, Fisica mecanica
+
+Nivel 4: Logica y representacion 3, Analisis y diseño de sistemas 1, Ecuaciones diferenciales y metodos numericos, Metodos estadisticos, Formacion ciudadana y constitucional, English 3
+
+Nivel 5: Analisis y diseño de sistemas 2, Estructura de datos y laboratorio, Teoria de lenguajes y laboratorio, English 4
+
+Nivel 6: Modelos y simulacion de sistemas 1, Arquitectura de software, Bases de datos y laboratorio, Comunicaciones y laboratorio, Proyecto integrador 1, English 5
+
+Nivel 7: Modelos y simulacion de sistemas 2, Fundamentos de sistemas de informacion, Calidad de software, Arquitectura de computadores y laboratorio
+
+Nivel ocho: Fundamentos de investigacion, Comunicaciones 2, Gestion de proyectos de sistemas de informacion, Sistemas operativos y laboratorio, Proyecto integrador 2
+
+Nivel 9: Etica profesional
