@@ -1,356 +1,351 @@
 ﻿PÉNSUM DEL PROGRAMA
 Programa: [504] INGENIERÍA DE SISTEMAS (v5)
 
+A continuación se encuentran todas las materias obligatorias, que debe ver un estudiante para optar al titulo de ingeniería de sistemas en la universidad de Antioquia.
+
+Éntiendase por nivel lo mismo que semestre. a continuación se enumerará cada materia con los siguientes elementos en el orden respectivo: (Nombre de la matería, código de la materia, nivel o semestre al que corresponde, numero de creditos, Prerequisitos y corequisitos).
 
 
-
-
-INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS [2508120]
-	
+INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS 
+	[2508120]
 	NIVEL: 1 
 	Creditos: 1
  	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 
-
-	
-
-DESCUBRIENDO LA FÍSICA [2536101]
-
+DESCUBRIENDO LA FÍSICA 
+	[2536101]
 	NIVEL: 1 
 	Creditos: 3 
 	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 
 
-VIVAMOS LA UNIVERSIDAD [2537101]
-
+VIVAMOS LA UNIVERSIDAD 
+	[2537101]
 	NIVEL: 1 
 	Creditos: 1
 	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 
 
 	
-ÁLGEBRA Y TRIGONOMETRÍA [2555101]
-
+ÁLGEBRA Y TRIGONOMETRÍA 
+	[2555101]
 	NIVEL: 1 
 	Creditos: 3
 	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 
 
-GEOMETRÍA VECTORIAL Y ANALÍTICA [2555121]
-
+GEOMETRÍA VECTORIAL Y ANALÍTICA 
+	[2555121]
 	NIVEL: 1 
 	Creditos: 3
 	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 	
 	
 
-CÁLCULO DIFERENCIAL [2555131]
-
+CÁLCULO DIFERENCIAL 
+	[2555131]
 	NIVEL: 1 
 	Creditos: 3
 	Prerequisitos: NO TIENE
+	Corequisitos: Algebra y trigonometria [2555101]
 
-	
-
-ENGLISH 1 [9025101]
-
+ENGLISH 1 
+	[9025101]
 	NIVEL: 1 
 	Creditos: 2
 	Prerequisitos: NO TIENE
+	Corequisitos: NO TIENE
 	
 
 
-MATEMÁTICAS DISCRETAS I [2508207]
-
+MATEMÁTICAS DISCRETAS I 
+	[2508207]
 	NIVEL: 2
 	Creditos: 3
-	Prerequisitos: 2508120
+	Prerequisitos: Introducción a la ingeniería de sistemas [2508120]
+	Corequisitos: NO TIENE
 	
 
-LÓGICA Y REPRESENTACIÓN I [2508208]
-
+LÓGICA Y REPRESENTACIÓN I 
+	[2508208]
 	NIVEL: 2
 	Creditos: 3
 	Prerequisitos: NO TIENE
+	Corequisitos: Matematicas discretas 1 [2508207]
 	
 
 
-LECTOESCRITURA [2539101]
-
+LECTOESCRITURA 
+	[2539101]
 	NIVEL: 2
 	Creditos:3
-	Prerequisitos: 2537101
+	Prerequisitos: Vivamos la universidad [2537101]
+	Corequisitos: NO TIENE
 	
 	
 
-ÁLGEBRA LINEAL [2555221]
-
+ÁLGEBRA LINEAL 
+	[2555221]
 	NIVEL: 2
 	Creditos: 3
-	Prerequisitos: 2555101, 2555121
+	Prerequisitos: Álgebra y trigonometria [2555101], Geometría vectorial y analítica [2555121]
+	Corequisitos: NO TIENE
 	
 
-CÁLCULO INTEGRAL [2555231]
-
+CÁLCULO INTEGRAL 
+	[2555231]
 	NIVEL: 2
 	Creditos: 3
-	Prerequisitos: 2555101, 2555131
-	
+	Prerequisitos: Álgebra y trigonometria [2555101], Cálculo diferencial [2555131]
+	Corequisitos: NO TIENE
 
-
-
-ENGLISH 2 [9025102]
-
+ENGLISH 2:
+	{Código: [9025102]
 	NIVEL: 2
 	Creditos: 2 
-	Prerequisitos: 9025101
-	
-	
+	Prerequisitos: ENGLISH 1 [9025101]
+	Corequisitos: NO TIENE}
 
-MATEMÁTICAS DISCRETAS II [2508303]
-
+MATEMÁTICAS DISCRETAS II 
+	[2508303]
 	NIVEL: 3
 	Creditos: 3
-	Prerequisitos: 2508207
+	Prerequisitos: MATEMÁTICAS DISCRETAS I [2508207]
+	Corequisitos: NO TIENE
 	
 
-LÓGICA Y REPRESENTACIÓN II [2508306]
-
+LÓGICA Y REPRESENTACIÓN II 
+	[2508306]
 	NIVEL: 3
 	Creditos: 3
-	Prerequisitos: 2508208
-	
+	Prerequisitos: LÓGICA Y REPRESENTACIÓN I [2508208]
+	Corequisitos: Matematicas dicretas II [2508303]
 
-	
 
-TÉCNICAS DE PROGRAMACIÓN Y LABORATORIO [2508307]
-
+TÉCNICAS DE PROGRAMACIÓN Y LABORATORIO 
+	[2508307]
 	NIVEL: 3
 	Creditos: 4
 	Prerequisitos: NO TIENE
+	Corequisitos: LÓGICA Y REPRESENTACIÓN II [2508306]
 	
 
-TEORÍA DE LA PROBABILIDAD Y COLAS [2508308]
-
+TEORÍA DE LA PROBABILIDAD Y COLAS 
+	[2508308]
 	NIVEL: 3
 	Creditos: 4
-	Prerequisitos: 2555231
+	Prerequisitos: Calculo integral [2555231]
+	Corequisitos: NO TIENE
 	
 
-FÍSICA MECÁNICA [2536201]
-
+FÍSICA MECÁNICA 
+	[2536201]
 	NIVEL: 3
 	Creditos: 3
-	Prerequisitos: 2555121
+	Prerequisitos: calculo diferencial [2555131], Geometría vectorial y analítica [2555121], Descubriendo la física [2536101]
+	Corequisitos: NO TIENE
 
-
-	
-LÓGICA Y REPRESENTACIÓN III [2508402]
-
+LÓGICA Y REPRESENTACIÓN III 
+	[2508402]
 	NIVEL: 4
 	Creditos: 4
-	Prerequisitos: 2508306, 2508308
+	Prerequisitos: Lógica y representación II [2508306],Teoría de probabilidad y colas [2508308]
+	Corequisitos: NO TIENE
 	
 	
 
-ANÁLISIS Y DISEÑO DE SISTEMAS I [2508403]
-
+ANÁLISIS Y DISEÑO DE SISTEMAS I 
+	[2508403]
 	NIVEL: 4
 	Creditos: 4
-	Prerequisitos: 2508307
-	
+	Prerequisitos: Técnicas de programación y laboratorio [2508307]
+	Corequisitos: NO TIENE
 
-	
 
-ECUACIONES DIFERENCIALES Y METODOS NUMERICOS [2508407]
-
+ECUACIONES DIFERENCIALES Y METODOS NUMERICOS 
+	[2508407]
 	NIVEL: 4
 	Creditos: 3
-	Prerequisitos: 2555231, 2555221, 2508307
+	Prerequisitos: Calculo integral [2555231], Álgebra lineal [2555221], Técnicas de programación y laboratorio [2508307]
+	Corequisitos: NO TIENE
 
-
-	
-
-MÉTODOS ESTADISTICOS [2508408]
-
+MÉTODOS ESTADISTICOS 
+	[2508408]
 	NIVEL: 4
 	Creditos: 3
-	Prerequisitos: 2508308
-	
+	Prerequisitos: Teoría de probabilidad y colas [2508308]
+	Corequisitos: NO TIENE
 
-
-FORMACIÓN CIUDADANA Y CONSTITUCIONAL [2517362]
-
+FORMACIÓN CIUDADANA Y CONSTITUCIONAL 
+	[2517362]
 	NIVEL: 4
 	Creditos: 1
 	Prerequisitos: 40 CREDITOS
+	Corequisitos: NO TIENE
 	
 
-ENGLISH 3 [9025103]
-
+ENGLISH 3 
+	[9025103]
 	NIVEL: 4
 	Creditos: 2
-	Prerequisitos: 9025102
+	Prerequisitos: English 2 [9025102]
+	Corequisitos: NO TIENE
 
-
-
-	
-
-ANÁLISIS Y DISEÑO DEM SISTEMAS II [2508506]
-
+ANÁLISIS Y DISEÑO DE SISTEMAS II 
+	[2508506]
 	NIVEL: 5
 	Creditos: 3
-	Prerequisitos: 2508403
+	Prerequisitos: ANÁLISIS Y DISEÑO DE SISTEMAS I [2508403]
+	Corequisitos: NO TIENE
 
-	
 
-ESTRUCTURA DE DATOS Y LABORATORIO [2508507]
-
+ESTRUCTURA DE DATOS Y LABORATORIO 
+	[2508507]
 	NIVEL: 5
 	Creditos: 4
-	Prerequisitos: 2508402
-	
+	Prerequisitos: Lógica y representación III [2508402]
+	Corequisitos: NO TIENE
 
-TEORÍA DE LENGUAJES Y LABORATORIO [2508508]
-
+TEORÍA DE LENGUAJES Y LABORATORIO 
+	[2508508]
 	NIVEL: 5
 	Creditos: 4
-	Prerequisitos: 2508402
-	
+	Prerequisitos: Lógica y representación III [2508402]
+	Corequisitos: NO TIENE
 
-ENGLISH 4 [9025104]
-
+ENGLISH 4 
+	[9025104]
 	NIVEL: 5
 	Creditos: 2
-	Prerequisitos: 9025103
-	
+	Prerequisitos: ENGLISH 3 [9025103]
+	Corequisitos: NO TIENE
 
-  
- 	
-
-MODELOS Y SIMULACIÓN DE SISTEMAS I [2508509]
-
+MODELOS Y SIMULACIÓN DE SISTEMAS I 
+	[2508509]
 	NIVEL: 6
 	Creditos: 3
-	Prerequisitos: 2508407, 2508408
-
+	Prerequisitos: Ecuaciones diferenciales y métodos numéricos [2508407], Métodos estadísticos [2508408]
+	Corequisitos: NO TIENE
 	
 
-ARQUITECTURA DE SOFTWARE [2508608]
-
+ARQUITECTURA DE SOFTWARE 
+	[2508608]
 	NIVEL: 6
 	Creditos: 3
-	Prerequisitos: 2508506
+	Prerequisitos: Análisis y diseño de sistemas II [2508506]
+	Corequisitos: Bases de datos y laboratorio [2508609]
 
 
-
-BASES DE DATOS Y LABORATORIO [2508609]
-
+BASES DE DATOS Y LABORATORIO 
+	[2508609]
 	NIVEL: 6
 	Creditos: 4
-	Prerequisitos: 2508507
-	
+	Prerequisitos: Estructuras de datos y laboratorio [2508507]
+	Corequisitos: NO TIENE
 
 
-COMUNICACIONES Y LABORATORIO [2508610]
-
+COMUNICACIONES Y LABORATORIO 
+	[2508610]
 	NIVEL: 6
 	Creditos: 4
-	Prerequisitos: 2508402
+	Prerequisitos: Lógica y representación III [2508402]
+	Corequisitos: NO TIENE
 	
 	
 
-PROYECTO INTEGRADOR I [2508700]
-	
+PROYECTO INTEGRADOR I 
+	[2508700]
 	NIVEL: 6
 	Creditos: 2
 	Prerequisitos: 80 CREDITOS
+	Corequisitos: NO TIENE
 
 
 
-ENGLISH 5 [9025105]
-
+ENGLISH 5 
+	[9025105]
 	NIVEL: 6
 	Creditos: 2
-	Prerequisitos: 9025104
-	
+	Prerequisitos: ENGLISH 4 [9025104]
+	Corequisitos: NO TIENE
 
-
-
-
-MODELOS Y SIMULACIÓN DE SISTEMAS II [2508611]
-
+MODELOS Y SIMULACIÓN DE SISTEMAS II 
+	[2508611]
 	NIVEL: 7
 	Creditos: 4
-	Prerequisitos: 2508509
-	
+	Prerequisitos: MODELOS Y SIMULACIÓN DE SISTEMAS I [2508509]
+	Corequisitos: NO TIENE
 
-FUNDAMENTOS DEM SISTEMAS DE INFORMACIÓN [2508702]
-
+FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN 
+	[2508702]
 	NIVEL: 7
 	Creditos: 3
-	Prerequisitos: 2508403
+	Prerequisitos: Análisis y diseño de sistemas I [2508403]
+	Corequisitos: NO TIENE
 	
 
 	
-CALIDAD DE SOFTWARE [2508703]
-
+CALIDAD DE SOFTWARE 
+	[2508703]
 	NIVEL: 7
 	Creditos: 3
-	Prerequisitos: 2508608
-	
+	Prerequisitos: Arquitectura de sotware [2508608]
+	Corequisitos: NO TIENE
 
-ARQUITECTURA DE COMPUTADORES Y LABORATORIO [2508716]
-
+ARQUITECTURA DE COMPUTADORES Y LABORATORIO 
+	[2508716]
 	NIVEL: 7
 	Creditos: 4
-	Prerequisitos: 2508303
-	
+	Prerequisitos: Matemáticas discretas II [2508303]
+	Corequisitos: NO TIENE
 
-
-
-
-
-
-FUNDAMENTOS DE INVESTIGACIÓN [2508701]
-
+FUNDAMENTOS DE INVESTIGACIÓN 
+	[2508701]
 	NIVEL: 8 
 	Creditos: 3
-	Prerequisitos: 2508506
+	Prerequisitos: Análisis y diseño de sistemas II [2508506]
+	Corequisitos: NO TIENE
 
 
-COMUNICACIONES II [2508840]
-
+COMUNICACIONES II 
+	[2508840]
 	NIVEL: 8 
 	Creditos:  3
-	Prerequisitos: 2508610
+	Prerequisitos: Comunicaciones y laboratorio [2508610]
+	Corequisitos: NO TIENE
 	
 
-GESTIÓN DE PROYECTOS DE SISTEMAS DE INFORMACIÓN [2508841]
-
+GESTIÓN DE PROYECTOS DE SISTEMAS DE INFORMACIÓN 
+	[2508841]
 	NIVEL: 8 
 	Creditos: 3
-	Prerequisitos: 2508702
-	
+	Prerequisitos: Fundamentos de sistemas de información [2508702]
+	Corequisitos: NO TIENE
 
 
-SISTEMAS OPERATIVOS Y LABORATORIO [2508842]
-
+SISTEMAS OPERATIVOS Y LABORATORIO 
+	[2508842]
 	NIVEL: 8 
 	Creditos: 4
-	Prerequisitos: 2508507, 2508716
-
+	Prerequisitos: Estructura de datos y laboratorio [2508507], Arquitectura de computadores y laboratorio [2508716]
+	Corequisitos: NO TIENE
 	
-
-PROYECTO INTEGRADOR II - ÁREA ELECTIVA [2508902]
-
+PROYECTO INTEGRADOR II - ÁREA ELECTIVA 
+	[2508902]
 	NIVEL: 8 
 	Creditos: 2
-	Prerequisitos: 2508700
+	Prerequisitos: PROYECTO INTEGRADOR I [2508700]
+	Corequisitos: NO TIENE
 	
 ÉTICA PROFESIONAL [2508836]
 
 	NIVEL: 9
 	Creditos: 1
-	Prerequisitos: 2508701
+	Prerequisitos: Fundamentos de investigación [2508701]
+	Corequisitos: NO TIENE
 

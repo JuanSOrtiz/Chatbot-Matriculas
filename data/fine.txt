@@ -1,0 +1,30 @@
+{"prompt": "Instrucción: Quiero que seas un chatbot dedicado a resolver dudas acerca de los procesos de matrícula de la facultad de ingeniería de la universidad de antioquia", "completion": "Respuesta: Hola, mi nombre es BotIA, ¿Cómo puedo ayudarte?"}
+{"prompt": "hola", "completion": "Hola, mi nombre es BotIA, ¿Cómo puedo ayudarte?"}
+{"prompt": "¿cuantos creditos son en total en la carrera?", "completion": "168 creditos"}
+{"prompt": "¿cuantos creditos son en total en materias obligatorias?", "completion": "140 creditos"}
+{"prompt": "¿cuantos creditos son en total en materias electivas?", "completion": "28 creditos"}
+{"prompt": "¿que se hace en el decimo semestre?", "completion": "En el último semestre de la carrera se cursa la materia electiva" practica academica""}
+{"prompt": "¿Cuales son las materias del segundo semestre?", "Las materias del segundo semestre son:  Matematicas discretas 1, Logica y representacion 1, Lectoescritura, Algebra lineal, Calculo integral, English 2"}
+{"prompt": "de que semestre es la materia bases de datos", "sexto semestre"}
+{"prompt": "cuantos creditos tiene la materia english 9", "english 9 no esta en el pensum"}
+{"prompt": "cuantos creditos tiene el primer semestre", "completion": "El primer semestre de tu programa académico tiene 16 créditos"}
+{"prompt": "¿Que materias se ven en el primer semestre?", "completion": ""Introduccion a la ingenieria de sistemas",
+      "Descubriendo la fisica",
+      "Vivamos la universidad",
+      "Algebra y trigonometria",
+      "Geometría vectorial y analítica",
+      "Calculo diferencial",
+      "English 1""}
+{"prompt": "¿Cómo cancelar semestre?", "completion": Debes dirigirte a la plataforma HERMES: https://ingenieria2.udea.edu.co/hermes/#/auth y dirigirte al apartado "solicitudes" y seguir el instructivo que allí se indica.
+Recuerda que a través del aplicativo HERMES puede solicitar la cancelación reglamentaria del semestre académico, siempre y cuando no haya superado el 40% de evaluación en uno, varios o la totalidad de los cursos registrados en el semestre académico.
+Si este no es su caso debe dirigirse al departamento o a vicedecanatura de su facultad."}
+
+{"prompt": "¿Cuales son las materias del nivel 7 o septimo semestre?", "completion": "El septimo semestre tiene las materias "Modelos y simulación de sistemas 2","Fundamentos de sistemas de información","Calidad de software","Arquitectura de computadores y laboratorio""}
+{"prompt": "¿Cuales son las materias del nivel 8 u octavo semestre?", "completion": "Las materias del octavo semestre son: "Fundamentos de investigación","El octavo semestre consta de las materias Comunicaciones 2","Gestión de proyectos de sistemas de información","Sistemas operativos y laboratorio","Proyecto integrador 2""}
+{"prompt": "¿Cuales son las materias del nivel 4 o cuarto semestre?", "completion": "Las materias del cuarto semestre son: "Lógica y representación 3","Análisis y diseño de sistemas 1","Ecuaciones diferenciales y métodos numéricos","Métodos estadísticos","Formación ciudadana y constitucional","English 3""}
+{"prompt": "cuantos creditos tiene la materia teoria de lenguajes", "completion": "4 créditos"}
+
+{"prompt": "¿a que semestre pertenece la materia teoria de lenguajes?", "completion": "Es del quinto semestre"}
+{"prompt": "que profesor da teoria de la computación?", "completion": "El profesor que imparte la materia de Teoría de la Computación en el nivel 1 es el Profesor Andres Garcia Restrepo."}
+{"prompt": "que profesor da matematicas discretas", "completion": "El profesor que imparte la materia de Matemáticas Discretas en el nivel 1 es el Profesor Sebastian Montoya Duque."}
+{"prompt": "que profe da metodos numericos", "completion": "El profesor que imparte la materia de Métodos Numéricos en el nivel 1 es el Profesor Hernando Antonio Villegas Parra."}

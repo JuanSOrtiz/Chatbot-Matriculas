@@ -1,0 +1,527 @@
+Materia: Análisis y Diseño de Sistemas I
+Cupo: 5
+MARES: 19316
+Horario: Lunes 14-16, Miércoles 8-10, Martes 12-14
+Profesor: Cobaleda Luz Viviana
+
+Materia: Análisis y Diseño de Sistemas I
+Cupo: 25
+MARES: 19316
+Horario: Lunes 14-16, Miércoles 8-10, Martes 12-14
+Profesor: Cobaleda Luz Viviana
+
+Materia: Análisis y Diseño de Sistemas I
+Cupo: 25
+MARES: 19209
+Horario: Jueves 16-18, Martes 12-14
+Profesor: Marín Marín Dennis Alexandra
+
+Materia: Análisis y Diseño de Sistemas II
+Cupo: 10
+MARES: 18325
+Horario: Martes 12-14, Jueves 8-10
+Profesor: Gil Moreno Wilmer Alberto
+
+Materia: Análisis y Diseño de Sistemas II
+Cupo: 40
+MARES: 18325
+Horario: Martes 12-14, Jueves 8-10
+Profesor: Gil Moreno Wilmer Alberto
+
+Materia: Argumentación y Lectoescritura
+Cupo: 15
+MARES: 19305
+Horario: Lunes 14-18
+Profesor: Torres Solorzano Vanessa
+
+Materia: Arquitectura de Computadores y Laboratorio
+Cupo: 20
+MARES: 18325
+Horario: Miércoles 14-18, Viernes 16-18
+Profesor: Castaño Londoño Luis Fernando
+
+Materia: Arquitectura de Computadores y Laboratorio
+Cupo: 20
+MARES: 19222, 20219, 20343
+Horario: Lunes 10-12, Jueves 10-12
+Profesor: Rivera Velez Fredy Alexander
+
+Materia: Arquitectura de Computadores y Laboratorio
+Cupo: 12
+MARES: INGENIA
+Horario: Lunes 12-14, Miércoles 10-12, Viernes 10-12
+Profesor: Rivera Velez Fredy Alexander
+
+Materia: Arquitectura de Software
+Cupo: 25
+MARES: 18210
+Horario: Jueves 16-18
+Profesor: Botia Valderrama Diego Jose
+
+Materia: Arquitectura del Software
+Cupo: 15
+MARES: 18210
+Horario: Jueves 16-18
+Profesor: Botia Valderrama Diego Jose
+
+Materia: Bases de Datos y Laboratorio
+Cupo: 25
+MARES: 18210, 19214
+Horario: Jueves 12-14, Viernes 18-20
+Profesor: Mota Lorenzo Jose
+
+Materia: Bases de Datos y Laboratorio
+Cupo: 15
+MARES: 18210, 19214
+Horario: Jueves 12-14, Viernes 18-20
+Profesor: Mota Lorenzo Jose
+
+Materia: Blockchain
+Cupo: 10
+MARES: INGENIA
+Horario: Jueves 18-20
+Profesor: Montoya Edison Alejandro
+
+Materia: Blockchain
+Cupo: 15
+MARES: INGENIA
+Horario: Jueves 18-20
+Profesor: Montoya Edison Alejandro
+
+Materia: Cálculo Diferencial
+Cupo: 40
+MARES: PENDIENTE
+Horario: Jueves 8-10
+Profesor: Uribe Guerra Gabriel Dario
+
+Materia: Calidad de Software
+Cupo: 25
+MARES: 20329, 19308
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Coronado Garcia Robinson
+
+Materia: Calidad del Software
+Cupo: 20
+MARES: 20329, 19308
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Coronado Garcia Robinson
+
+Materia: Ciencia Técnica y Sociedad
+Cupo: 5
+MARES: UDE@
+Horario: Jueves 6-8
+Profesor: Ardila Tejada Johman Esneid
+
+Materia: Ciencia Técnica y Sociedad
+Cupo: 5
+MARES: UDE@
+Horario: Jueves 6-8
+Profesor: Ardila Tejada Johman Esneid
+
+Materia: Computación Móvil
+Cupo: 10
+MARES: 18210
+Horario: Sábado 8-12
+Profesor: Guzman Obando Sebastian
+
+Materia: Computación Móvil
+Cupo: 15
+MARES: 18210
+Horario: Sábado 8-12
+Profesor: Guzman Obando Sebastian
+
+Materia: Comunicación y Laboratorio
+Cupo: 20
+MARES: 18325
+Horario: Viernes 8-14
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Comunicaciones II
+Cupo: 5
+MARES: 18325
+Horario: Jueves 12-18
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Comunicaciones II
+Cupo: 15
+MARES: 18325
+Horario: Miércoles 8-14
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Comunicaciones II
+Cupo: 15
+MARES: 18325
+Horario: Jueves 12-18
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Comunicaciones II
+Cupo: 15
+MARES: 18325
+Horario: Miércoles 8-14
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Comunicaciones y Laboratorio
+Cupo: 15
+MARES: 18325
+Horario: Viernes 8-14
+Profesor: Marin Lopera Gustavo Andres
+
+Materia: Diseño de Circuitos Digitales
+Cupo: 10
+MARES: UDE@
+Horario: Viernes 14-18
+Profesor: Benavides Arevalo Bernardo Andres
+
+Materia: Diseño de Circuitos Digitales
+Cupo: 15
+MARES: UDE@
+Horario: Viernes 14-18
+Profesor: Benavides Arevalo Bernardo Andres
+
+Materia: Desarrollo de Aplicaciones Empresariales
+Cupo: 20
+MARES: INGENIA
+Horario: Miércoles y Viernes 6-8
+Profesor: Cogollo Juan Ricardo
+
+Materia: Desarrollo de Aplicaciones Empresariales
+Cupo: 15
+MARES: INGENIA
+Horario: Miércoles y Viernes 6-8
+Profesor: Cogollo Juan Ricardo
+
+Materia: Ecuaciones Diferenciales y Métodos Numéricos
+Cupo: 25
+MARES: INGENIA
+Horario: Miércoles y Viernes 12-14
+Profesor: Vasquez Echavarria Clara Ines
+
+Materia: Ecuaciones Diferenciales y Métodos Numéricos
+Cupo: 25
+MARES: PENDIENTE
+Horario: Lunes y Miércoles 8-10
+Profesor: Lozano Rodriguez Javier Armando
+
+Materia: Estructuras de Datos y Laboratorio
+Cupo: 30
+MARES: 18210, 19311
+Horario: Lunes 6-8, Jueves 18-20
+Profesor: Lopera Oscar Camilo
+
+Materia: Estadística Psicosocial para Ingeniería de Sistemas
+Cupo: 15
+MARES: 19315
+Horario: Sábado 8-12
+Profesor: Bedoya Alvarez Isabel Catalina
+
+Materia: Estrategias Fiscales de la Información y la Tecnología
+Cupo: 10
+MARES: 18210, 19311
+Horario: Lunes 6-8, Jueves 18-20
+Profesor: Lopera Oscar Camilo
+
+Materia: Estrategias Psicosociales para Ingeniería de Sistemas
+Cupo: 5
+MARES: 19315
+Horario: Sábado 8-12
+Profesor: Bedoya Alvarez Isabel Catalina
+
+Materia: Ética de la Información y la Tecnología
+Cupo: 15
+MARES: 18325
+Horario: Lunes y Miércoles 14-16
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Ética de la Información y la Tecnología
+Cupo: 5
+MARES: 18325
+Horario: Lunes y Miércoles 14-16
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Ética Profesional
+Cupo: 15
+MARES: 19309
+Horario: Lunes 18-20
+Profesor: Ardila Tejada Johman Esneid
+
+Materia: Filosofía de la Información y la Tecnología
+Cupo: 15
+MARES: 18325
+Horario: Lunes y Miércoles 16-18
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Filosofía de la Información y la Tecnología
+Cupo: 5
+MARES: 18325
+Horario: Lunes y Miércoles 16-18
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Fundamentos de Sistemas de Información
+Cupo: 15
+MARES: INGENIA
+Horario: Jueves 14-16
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Fundamentos de Sistemas de Información
+Cupo: 15
+MARES: 19311, 21312
+Horario: Martes 10-12, Jueves 10-12
+Profesor: Duque Ramos Astrid
+
+Materia: Fundamentos de Sistemas de Información
+Cupo: 10
+MARES: INGENIA
+Horario: Jueves 14-16
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Fundamentos de Programación y Laboratorio
+Cupo: 15
+MARES: 18325, 21312
+Horario: Miércoles 8-14, Viernes 16-18
+Profesor: Ramírez Escobar Carlos
+
+Materia: Fundamentos de Programación y Laboratorio
+Cupo: 25
+MARES: 18325, 21312
+Horario: Lunes 8-14, Viernes 8-14
+Profesor: Ramírez Escobar Carlos
+
+Materia: Gestión de Proyectos de Ingeniería
+Cupo: 20
+MARES: 18325, 19308
+Horario: Viernes 16-18, Sábado 8-12
+Profesor: Porras Botero Ana Carolina
+
+Materia: Gestión de Proyectos de Ingeniería
+Cupo: 20
+MARES: 18325, 19308
+Horario: Viernes 16-18, Sábado 8-12
+Profesor: Porras Botero Ana Carolina
+
+Materia: Investigación de Operaciones
+Cupo: 25
+MARES: INGENIA
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Cano Quiñonez Edwin
+
+Materia: Investigación de Operaciones
+Cupo: 25
+MARES: INGENIA
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Cano Quiñonez Edwin
+
+Materia: Investigación de Operaciones
+Cupo: 25
+MARES: INGENIA
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Cano Quiñonez Edwin
+
+Materia: Introducción a la Ingeniería de sistemas
+Cupo: 40
+MARES: INGENIA
+Horario: Martes 18-20, Jueves 18-20
+Profesor: Salazar Sierra Sebastian
+
+Materia: Introducción a la Ingeniería de sistemas
+Cupo: 25
+MARES: INGENIA
+Horario: Martes 18-20, Jueves 18-20
+Profesor: Salazar Sierra Sebastian
+
+Materia: Laboratorio de Redes de Computadores
+Cupo: 30
+MARES: 19308, 19311
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Laboratorio de Redes de Computadores
+Cupo: 20
+MARES: 19308, 19311
+Horario: Miércoles 10-12, Viernes 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Laboratorio de Redes de Computadores
+Cupo: 10
+MARES: 19308, 19311
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Lenguajes de Programación
+Cupo: 25
+MARES: INGENIA
+Horario: Martes 10-12, Jueves 10-12
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Lenguajes de Programación
+Cupo: 20
+MARES: 18325, 19209
+Horario: Martes 10-12, Jueves 10-12
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Matemáticas Discretas
+Cupo: 25
+MARES: 18210
+Horario: Martes 8-10, Miércoles 8-10
+Profesor: Montoya Duque Sebastian
+
+Materia: Matemáticas Discretas
+Cupo: 25
+MARES: 18210
+Horario: Martes 8-10, Miércoles 8-10
+Profesor: Montoya Duque Sebastian
+
+Materia: Métodos Numéricos para Ingeniería de Sistemas
+Cupo: 20
+MARES: INGENIA
+Horario: Martes 10-12, Jueves 10-12
+Profesor: Villegas Parra Hernando Antonio
+
+Materia: Métodos Numéricos para Ingeniería de Sistemas
+Cupo: 10
+MARES: INGENIA
+Horario: Martes 10-12, Jueves 10-12
+Profesor: Villegas Parra Hernando Antonio
+
+Materia: Modelado y Simulación
+Cupo: 25
+MARES: 18325, 19311
+Horario: Lunes 12-14, Miércoles 12-14
+Profesor: Garcia Restrepo Andres
+
+Materia: Modelado y Simulación
+Cupo: 25
+MARES: 18325, 19311
+Horario: Lunes 12-14, Miércoles 12-14
+Profesor: Garcia Restrepo Andres
+
+Materia: Modelos de Redes Neuronales
+Cupo: 10
+MARES: INGENIA
+Horario: Martes 14-16, Jueves 14-16
+Profesor: Restrepo Arias Carlos
+
+Materia: Modelos de Redes Neuronales
+Cupo: 10
+MARES: INGENIA
+Horario: Martes 14-16, Jueves 14-16
+Profesor: Restrepo Arias Carlos
+
+Materia: Paradigmas de la Programación
+Cupo: 20
+MARES: INGENIA
+Horario: Martes 12-14, Jueves 12-14
+Profesor: Arango Osorio Juan David
+
+Materia: Paradigmas de la Programación
+Cupo: 15
+MARES: INGENIA
+Horario: Martes 12-14, Jueves 12-14
+Profesor: Arango Osorio Juan David
+
+Materia: Programación de Dispositivos Móviles
+Cupo: 20
+MARES: INGENIA
+Horario: Miércoles 10-12, Viernes 10-12
+Profesor: Guzman Obando Sebastian
+
+Materia: Programación de Dispositivos Móviles
+Cupo: 15
+MARES: INGENIA
+Horario: Miércoles 10-12, Viernes 10-12
+Profesor: Guzman Obando Sebastian
+
+Materia: Programación Web
+Cupo: 15
+MARES: INGENIA
+Horario: Lunes 8-10, Miércoles 8-10
+Profesor: Martinez Restrepo Andres
+
+Materia: Programación Web
+Cupo: 10
+MARES: INGENIA
+Horario: Lunes 8-10, Miércoles 8-10
+Profesor: Martinez Restrepo Andres
+
+Materia: Redes de Computadores
+Cupo: 20
+MARES: 18210
+Horario: Martes 14-16, Jueves 14-16
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Redes de Computadores
+Cupo: 15
+MARES: 18210
+Horario: Martes 14-16, Jueves 14-16
+Profesor: Aguirre Galeano Gustavo De Jesus
+
+Materia: Redes de Computadores y Laboratorio
+Cupo: 25
+MARES: 18325, 19209
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Redes de Computadores y Laboratorio
+Cupo: 20
+MARES: 18325, 19209
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Seguridad Informática
+Cupo: 25
+MARES: 18325
+Horario: Miércoles 18-20, Viernes 18-20
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Seguridad Informática
+Cupo: 15
+MARES: 18325
+Horario: Miércoles 18-20, Viernes 18-20
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Seguridad de la Información
+Cupo: 25
+MARES: INGENIA
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Restrepo Arias Carlos
+
+Materia: Seguridad de la Información
+Cupo: 20
+MARES: INGENIA
+Horario: Lunes 18-20, Miércoles 18-20
+Profesor: Restrepo Arias Carlos
+
+Materia: Sistemas de Información para la Toma de Decisiones
+Cupo: 20
+MARES: 18325, 19209
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Sistemas de Información para la Toma de Decisiones
+Cupo: 15
+MARES: 18325, 19209
+Horario: Lunes 10-12, Miércoles 10-12
+Profesor: Zapata Florez Antony Alejandro
+
+Materia: Taller de Programación
+Cupo: 25
+MARES: 18325
+Horario: Viernes 8-10, Sábado 8-12
+Profesor: Arango Osorio Juan David
+
+Materia: Taller de Programación
+Cupo: 20
+MARES: 18325
+Horario: Viernes 8-10, Sábado 8-12
+Profesor: Arango Osorio Juan David
+
+Materia: Teoría de la Computación
+Cupo: 15
+MARES: 18325, 19209
+Horario: Miércoles 14-16, Viernes 14-16
+Profesor: Garcia Restrepo Andres
+
+Materia: Teoría de la Computación
+Cupo: 10
+MARES: 18325, 19209
+Horario: Miércoles 14-16, Viernes 14-16
+Profesor: Garcia Restrepo Andres

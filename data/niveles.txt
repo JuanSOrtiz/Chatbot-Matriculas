@@ -1,19 +1,95 @@
-A continuacion se muestra una lista de materias que se ven en cada nivel en el programa o pensum de ingenieria de sistemas de la universidad de Antioquia separado por comas
+A continuacion se muestra una lista de materias que se ven en cada nivel-semestre (entiendase por nivel-semestre lo mismo que la palabra "semestre", hay 10 semestres en total en la carrera, se puede decir: nivel-semestre 10, decimo nivel-semestre, semestre 10, decimo semestre y sus variaciones) en el programa o pensum de ingenieria de sistemas de la universidad de Antioquia.
 
-Nivel 1: Introduccion a la ingenieria de sistemas, Descubriendo la fisica, Vivamos la universidad, Algebra y trigonometria, Calculo diferencial, English 1
+El pensum o plan de estudios tiene 5 versiones diferentes, este plan de estudios corresponde a la última version (la quinta).
 
-Nivel 2: Matematicas discretas 1, Logica y representacion 1, Lectoescritura, Algebra lineal, Calculo integral, English 2
+¿Cuántos creditos tiene el primer semestre?
+16 creditos
+¿Cuántos creditos tiene el segundo semestre?
+17 creditos
+¿Cuántos creditos tiene el tercer semestre?
+17 creditos
+¿Cuántos creditos tiene el cuarto semestre?
+17 creditos
+¿Cuántos creditos tiene el quinto semestre?
+13 creditos
+¿Cuántos creditos tiene el sexto semestre?
+18 creditos
+¿Cuántos creditos tiene el septimo semestre?
+14 creditos
+¿Cuántos creditos tiene el octavo semestre?
+15 creditos
+¿Cuántos creditos tiene el noveno semestre?
+1 credito
+¿Cuántos creditos tiene el decimo semestre?
+12 creditos
+"
+La siguiente es una lista de materias organizadas por niveles (semestres). Tenga en cuenta que el término 'nivel' se refiere a semestre y no está relacionado con el nombre de la materia. Por ejemplo, 'Modelos 2' no significa que la materia sea del nivel 2.
 
-Nivel 3: Matematicas discretas 2, Logica y representacion 2, Tecnicas de programacion y laboratorio, Teoria de la probabilidad y colas, Fisica mecanica
+ MATERIAS OBLIGATORIAS
+ ¿Cuales son las materias del nivel 1 o primer semestre?
+"Introducción a la ingeniería de sistemas", "Descubriendo la física", "Vivamos la universidad","Álgebra y trigonometría","Cálculo diferencial","English 1"
+ ¿Cuales son las materias del nivel 2 o segundo semestre?
+"Matemáticas discretas 1","Lógica y representación 1","Lectoescritura","Álgebra lineal","Cálculo integral","English 2"
+ ¿Cuales son las materias del nivel 3 o tercer semestre?
+"Matemáticas discretas 2","Lógica y representación 2","Técnicas de programación y laboratorio","Teoría de la probabilidad y colas","Física mecánica"
+ ¿Cuales son las materias del nivel 4 o cuarto semestre?
+"Lógica y representación 3","Análisis y diseño de sistemas 1","Ecuaciones diferenciales y métodos numéricos","Métodos estadísticos","Formación ciudadana y constitucional","English 3"
+ ¿Cuales son las materias del nivel 5 o quinto semestre?
+"Análisis y diseño de sistemas 2","Estructura de datos y laboratorio","Teoría de lenguajes y laboratorio","English 4"
+ ¿Cuales son las materias del nivel 6 o sexto semestre?
+"Modelos y simulación de sistemas 1","Arquitectura de software","Bases de datos y laboratorio","Comunicaciones y laboratorio","Proyecto integrador 1","English 5"
+ ¿Cuales son las materias del nivel 7 o septimo semestre?
+"Modelos y simulación de sistemas 2","Fundamentos de sistemas de información","Calidad de software","Arquitectura de computadores y laboratorio"
+ ¿Cuales son las materias del nivel 8 u octavo semestre?
+"Fundamentos de investigación","Comunicaciones 2","Gestión de proyectos de sistemas de información","Sistemas operativos y laboratorio","Proyecto integrador 2"
+ ¿Cuales son las materias del nivel 9 o noveno semestre?
+"Ética profesional"
 
-Nivel 4: Logica y representacion 3, Analisis y diseño de sistemas 1, Ecuaciones diferenciales y metodos numericos, Metodos estadisticos, Formacion ciudadana y constitucional, English 3
 
-Nivel 5: Analisis y diseño de sistemas 2, Estructura de datos y laboratorio, Teoria de lenguajes y laboratorio, English 4
 
-Nivel 6: Modelos y simulacion de sistemas 1, Arquitectura de software, Bases de datos y laboratorio, Comunicaciones y laboratorio, Proyecto integrador 1, English 5
+Cabe resaltar que además de todas las materias que se deben ver por semestre, a lo largo de la carrera el estudiante debe ver las siguientes electivas: 
 
-Nivel 7: Modelos y simulacion de sistemas 2, Fundamentos de sistemas de informacion, Calidad de software, Arquitectura de computadores y laboratorio
+Curso alternativo de física (1 materia, para un total de 3 créditos): El estudiante puede elegir ver SÓLO UNA de las siguientes materias: Física de campos, Física de Ondas, o Física termodinámica.
+Curso alternativo de labortaorio integrado física (1 materia, para un total de 1 crédito): Laboratorio integrado de física, el enfoque de éste dependerá del curso alternativo de física (Física de campos, Física de Ondas, o Física termodinámica) visto previamente.
+sociohumanísticas (3 materias, para un total de 9 créditos): El estudiante puede elegir ver tres (3) de las siguientes materias:
+ARGUMENTACIÓN Y LECTOESCRITURA
+CIENCIA TÉCNICA Y SOCIEDAD 
+ESTRATEGIAS PSICOSOCIALES PARA EL INGENIERO DE SISTEMAS 
+ÉTICA DE LA INTELIGENCIA ARTIFICIAL 
+ÉTICA Y RESPONSABILIDAD SOCIAL EN LA FORMACIÓN DE INGENIERIA 
+FILOSOFÍA DE LA INTELIGENCIA ARTIFICIAL
+GESTIÓN HUMANA PARA INGENIEROS 
+HABILIDADES COMUNICATIVAS (LECTO ESCRITURA II) 
+HABILIDADES GERENCIALES
+HISTORIA CONTEMPORÁNEA
+HISTORIA DE LA INGENIERÍA
+HUMANIDAD Y ECONOMÍA 
+INTRODUCCIÓN A LA PSICOLOGÍA
+INTRODUCCIÓN A LAS CIENCIAS 
+LEGISLACIÓN
+PENSAMIENTO CRÍTICO Y NUEVAS TECNOLOGÍAS 
+PENSAR LA HISTORIA 
+RAZONAMIENTO Y CONOCIMIENTO 
+SOCIO HUMANÍSTICA IV 
+Énfasis de la carrera. La carrera cuenta con 3 lineas de énfasis (ciencias de la computación, ingeniería de computadores y comunicación de datos e ingeniería de software y sistemas de información).
+El estudiante debe ver 3 materias de una misma linea de énfasis y otras 2 materias en cualquiera de las otras 2 lineas deseadas, esto para un total de 5 materias que corresponden a un total de 15 créditos.
+A continuación se lista cada linea de énfasis con las materias electivas correspondientes.
+Linea de énfasis 1: ciencias de la computación.
+Materias:
+BLOCKCHAIN, FUNDAMENTOS DE DEEP LEARNING, FUNDAMENTOS EN PROCESAMIENTO DE LENGUAJE NATURAL, INTRODUCCION A LA INTELINGENCIA ARTIFICIAL PARA LAS CCIAS E INGENIERIAS
+MATEMÁTCIAS DISCRETAS III
+MATEMÁTICAS DISCRETAS IV
+OPTIMIZACIÓN
 
-Nivel ocho: Fundamentos de investigacion, Comunicaciones 2, Gestion de proyectos de sistemas de informacion, Sistemas operativos y laboratorio, Proyecto integrador 2
+Linea de énfasis 2: Ingeniería de computadores y comunicación de datos.
+Materias: COMPUTACIÓN MÓVIL, DISEÑO DE CIRCUITOS DIGITALES, INTERNET DE LAS COSAS, PROCESAMIENTO DIGITAL DE IMÁGENES, SEMINARIO VOZ IP, SISTEMAS EMBEBIDOS, SISTEMAS PARALELOS
 
-Nivel 9: Etica profesional
+Linea de énfasis 3: Ingeniería de software y sistemas de información.
+Materias: BIG DATA, DESARROLLO DE APLICACIONES EMPRESARIALES, GESTIÓN DE TIC, INGENIERÍA WEB, PRUEBAS DE SOFTWARE, SEGURIDAD DE LA INFORMACIÓN
+
+Finalmente para el estudiante aspirar al título de ingeniero(a) de sistemas de cursar SÓLO UNA de las siguientes opciones de práctica académica en el semestre 10:
+
+Practica académica (décimo semestre) (1 materia, 12 créditos):
+EMPRESARISMO, PRÁCTICA SOCIAL, PROYECTOS DE INVESTIGACIÓN, SEMESTRE DE INDUSTRIA, TRABAJO DE GRADO.
+
+En total la suma de los creditos de los 10 semestres de la carrera de ingeniería de sistemas en la universidad de antioquia, consta de un total de 168 créditos que el estudiante debe aprobar para optar al título profesional.
