@@ -1,47 +1,64 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
-import User from '../images/User.png'
 
-function Formulario() {
-  const [mensaje, setMensaje] = useState('');
-  const [simbolo, setSimbolo] = useState('');
+function Formulario({ onProcessed }) {
+  const [inputValue, setInputValue] = useState('');
+  const [courseValue, setCourseValue] = useState('');
+  const [currentState, setCurrentState] = useState('');
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://127.0.0.1:5000/procesar', { simbolo }, { headers: { 'Content-Type': 'application/json' } });
-      setMensaje(response.data);
+      const symbol = (currentState === 'E38' || currentState === 'E39') ? courseValue : inputValue;
+      const response = await axios.post('http://127.0.0.1:5001/procesar', { simbolo: symbol }, { headers: { 'Content-Type': 'application/json' } });
+      if (response.data) {
+        setCurrentState(response.data.estado_actual);
+      } else {
+        console.error('La respuesta recibida no contiene la propiedad "respuesta":', response.data);
+      }
+      setInputValue('');
+      setCourseValue('');
+      onProcessed(response.data);
     } catch (error) {
       console.error('Error al procesar el símbolo:', error);
     }
   };
 
-  useEffect(() => {
-    if (mensaje !== '') {
-      window.location.reload();
-    }
-  }, [mensaje]);
+  const handleChange = (e) => {
+    setInputValue(e.target.value);
+  };
+
+  const handleCourseChange = (e) => {
+    setCourseValue(e.target.value);
+  };
 
   return (
-  
-    <form onSubmit={handleSubmit}>
-      <div className="d-flex flex-row justify-content-end" style={{marginBottom:'20%'}}>
-        <div className="p-3 me-3 border" style={{ borderRadius: '15px', backgroundColor: '#fbfbfb' }}>
-          <p className="mb-0">{simbolo || "..."}</p>
-        </div>
-        <img src={User} alt="user" style={{ width: '45px', height: '100%' }} />
+    <form onSubmit={handleSubmit} style={{ display: 'flex', alignItems: 'flex-end' }}>
+      <div className="input-group">
+        {(currentState === 'E38' || currentState === 'E39') && (
+          <input
+            type="text"
+            value={courseValue}
+            onChange={handleCourseChange}
+            placeholder="Ingrese el curso"
+            className="form-control"
+          />
+        )}
+        {(currentState !== 'E38' && currentState !== 'E39') && (
+          <input
+            type="text"
+            value={inputValue}
+            onChange={handleChange}
+            placeholder="Ingrese un símbolo"
+            className="form-control"
+          />
+        )}
+        <button type="submit" className="btn btn-primary">
+          <FontAwesomeIcon icon={faArrowRight} />
+        </button>
       </div>
-      <div className="row reply justify-content-center" >
-        <div class="col-sm-10 col-xs-10">
-          <input className="form-control" style={{backgroundColor:'#fbfbfb'}} type="text" value={simbolo} onChange={(e) => setSimbolo(e.target.value)} />
-        </div>
-        <div class="col-sm-1 col-xs-1 reply-send">
-        <button type='submit' style={{ border: 'none', background: 'none' }}><FontAwesomeIcon icon={faArrowRight} /></button>
-        </div>
-      </div>
-      
     </form>
   );
 }

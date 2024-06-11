@@ -1,0 +1,104 @@
+.chat-container {
+    max-width: 30%;
+    height: 100%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
+  .chat-history {
+    margin-bottom: 20px;
+  }
+  
+  .chat-message {
+    margin-top: 20px;
+    /* margin-bottom: 10px; */
+  }
+  
+  .chat-message-question {
+    background-color: #e0f7fa;
+    padding: 15px;
+    border-radius: 20px;
+    width: 55%;
+    margin-bottom: 10px;
+    margin-left: 55%;
+    font-family: system-ui;
+  }
+  
+  .chat-message-answer {
+    background-color: #b2dfdb;
+    padding: 15px;
+    border-radius: 20px;
+    max-width: 55%;
+    margin-bottom: 10px;
+    font-family: system-ui;
+  }
+  
+  
+  .chat-form {
+    display: flex;
+    margin-top: 68%;
+    padding: 15px;
+    position: sticky;
+    bottom: 0;
+    background-color: white;
+    z-index: 1; 
+  }
+  
+  .chat-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-right: 10px;
+    
+  }
+  
+  .chat-submit {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    /* border: none; */
+    border: 1px solid #b9b9b9;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 40px;
+    margin-top: auto;
+  }
+  
+  .chat-submit:hover {
+    background-color: #ccc;
+  }
+
+
+
+    .btn-custom {
+        display: block;
+        width: 100%;
+        padding: 10px 20px;
+        font-size: 1.1em;
+        font-weight: bold;
+        color: white;
+        background-color: #34D146; /* Color verde utilizado en el componente de chat */
+        border: none;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-bottom: 15px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    
+    .btn-custom:hover {
+        background-color: #0d7219; /* Un tono más oscuro para el hover */
+    }
+
+    .custom-h2 {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #333;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+  

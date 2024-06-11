@@ -1,5 +1,6 @@
 import React from 'react';
 import Select from './components/chat';
+import Login from './components/Login'
 
 function App() {
 
@@ -8,8 +9,11 @@ function App() {
     <div className="App">
       {/*
       <p>{mensaje}</p>
-      <Formulario/> */}
+      <Formulario/> 
       <Select/>
+      */}
+      <Login/>
+      
     </div>
   );
 }
